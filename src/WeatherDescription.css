@@ -1,0 +1,5 @@
+@media (max-width: 1000px) {
+  h3.WeatherDescription {
+    font-size: 1.2rem;
+  }
+}

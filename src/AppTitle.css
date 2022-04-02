@@ -1,0 +1,9 @@
+h1.AppTitle {
+  font-size: 2rem;
+}
+
+@media (max-width: 1000px) {
+  h1.AppTitle {
+    font-size: 1.5rem;
+  }
+}

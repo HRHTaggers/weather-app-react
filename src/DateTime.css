@@ -1,0 +1,14 @@
+div.DateTime {
+  font-size: 18px;
+  line-height: 2.5;
+  vertical-align: bottom;
+  text-align: right;
+}
+
+@media (max-width: 1000px) {
+  div.DateTime {
+    font-size: 14px;
+    line-height: 1.75;
+    text-align: center;
+  }
+}

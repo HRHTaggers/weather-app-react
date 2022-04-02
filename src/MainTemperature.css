@@ -1,0 +1,10 @@
+h2.MainTemperature {
+  font-size: 60px;
+  text-align: center;
+}
+
+@media (max-width: 1000px) {
+  h2.MainTemperature {
+    font-size: 40px;
+  }
+}

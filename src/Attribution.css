@@ -1,0 +1,17 @@
+div.Attribution {
+  text-align: center;
+}
+
+img.Attribution {
+  max-width: 10px;
+}
+
+p.Attribution {
+  font-size: 10px;
+}
+
+a.Attribution {
+  font-size: 10px;
+  text-decoration: none;
+  color: aliceblue;
+}

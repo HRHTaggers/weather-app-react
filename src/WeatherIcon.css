@@ -1,0 +1,5 @@
+@media (max-width: 1000px) {
+  img.WeatherIcon {
+    max-width: 200px;
+  }
+}
