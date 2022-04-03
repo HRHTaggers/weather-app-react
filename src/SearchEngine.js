@@ -8,13 +8,13 @@ export default function SearchEngine() {
       <input
         type="search"
         placeholder="  Enter city..."
-        className="col-md-8 mt-3 me-3 mb-3 form-entry"
+        className="col-md-9 mt-3 ms-4 me-3 mb-3 ps-2 form-entry"
       />
       <span className="col-md-1"></span>
       <input
         type="submit"
         value="Search"
-        className="col-md-3 mt-3 mb-3 ms-3 search-button"
+        className="col-md-2 mt-3 mb-3 ms-3 search-button"
       />
     </div>
   );

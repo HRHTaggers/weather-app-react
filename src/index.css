@@ -4,6 +4,7 @@ body {
   background-position: center;
   padding: 5%;
   font-family: "Jost", sans-serif;
+  box-sizing: border-box;
 }
 
 .background {

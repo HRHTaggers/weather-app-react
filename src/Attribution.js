@@ -6,8 +6,8 @@ export default function footer() {
     <div className="Attribution">
       <p className="Attribution mt-3 mb-2 mb-0">
         Coded by H. R. Tagliarini, open-sourced on 
-        <a href="#">Github
-        </a> & hosted on Netlify.
+        <a href="https://github.com/HRHTaggers/weather-app-react" className="Attribution"> Github</a> &
+        hosted on Netlify.
       </p>
       <div>
         <a
@@ -23,7 +23,12 @@ export default function footer() {
           />
         </a>
       </div>
-      <a href="https://www.htcode.co.uk" target="blank" rel="noreferrer" className="Attribution">
+      <a
+        href="https://www.htcode.co.uk"
+        target="blank"
+        rel="noreferrer"
+        className="Attribution"
+      >
         www.htcode.co.uk
       </a>
     </div>
