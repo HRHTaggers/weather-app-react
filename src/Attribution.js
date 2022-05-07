@@ -5,13 +5,19 @@ export default function footer() {
   return (
     <div className="Attribution">
       <p className="Attribution mt-3 mb-2 mb-0">
-        Coded by H. R. Tagliarini, open-sourced on 
-        <a href="https://github.com/HRHTaggers/weather-app-react" className="Attribution"> Github</a> &
-        hosted on Netlify.
+        Coded by H. R. Tagliarini, open-sourced on
+        <a
+          href="https://github.com/HRHTaggers/weather-app-react"
+          className="Attribution"
+        >
+          {" "}
+          Github
+        </a>{" "}
+        & hosted on Netlify.
       </p>
       <div>
         <a
-          href="https://www.htcode.co.uk"
+          href="https://htcoding.netlify.app/"
           target="blank"
           rel="noreferrer"
           className="Attribution"
@@ -24,7 +30,7 @@ export default function footer() {
         </a>
       </div>
       <a
-        href="https://www.htcode.co.uk"
+        href="https://htcoding.netlify.app/"
         target="blank"
         rel="noreferrer"
         className="Attribution"
